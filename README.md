@@ -3,9 +3,9 @@
 
 <div dir="ltr">
   
-### In The Name Of God
+**In The Name Of God**
   
-#### Havva Askari
+**Havva Askari**
   
   Contact :<br/>
   ph.num : 09373710702 - 09197445536 <br/>
@@ -16,7 +16,7 @@
   marital status : married <br/>
    <br/>
   
-#### Educational Background
+**Educational Background**
   
   <br/>
   
@@ -26,7 +26,7 @@
   
   <br/>
   
-#### Work Experience
+**Work Experience**
   
   <br/>
   
@@ -37,7 +37,7 @@
   
   <br/>
   
-#### Skills
+**Skills**
   
   <br/>
   
@@ -52,13 +52,13 @@
   
   <br/>
   
-#### Trading foreign languages
+**Trading foreign languages**
  
   <br/>
   English (speaking-reading-listening-writing) 75%
   <br/>
   
-  #### Other Skills
+  **Other Skills**
   <br/>
   Fast learning
   <br/>
