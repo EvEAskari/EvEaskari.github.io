@@ -1,5 +1,3 @@
-<div dir="ltr">
-  
 # EvEaskari.github.io
  
 **In The Name Of God**
@@ -64,4 +62,3 @@
   Hardware
   <br/>
    
-  </div>
