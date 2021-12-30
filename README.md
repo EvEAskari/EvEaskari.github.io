@@ -1,8 +1,7 @@
-# EvEaskari.github.io
-
-
 <div dir="ltr">
   
+# EvEaskari.github.io
+ 
 **In The Name Of God**
   
 **Havva Askari**
@@ -64,7 +63,5 @@
   <br/>
   Hardware
   <br/>
-  
-  
-  <br/>
+   
   </div>
