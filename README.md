@@ -1,69 +1,68 @@
 # EvEaskari.github.io
 
 
-<div dir="rtl">
+<div dir="ltr">
   
-### بسمه تعالی
-#### رزومه
+### In The Name Of God
   
-#### حوا عسکری
+#### Havva Askari
   
-  تلفن تماس: 09197445536 - 09373710702 <br/>
-ایمیل : havvaaskari0702@gmail.com   <br/>
- وضعیت تاهل : متاهل<br/>
-  متولد : 1373 <br/>
-  ساکن پرند <br/>
-تلفن تماس ضروری : 09392051403
+  Contact :<br/>
+  ph.num : 09373710702 - 09197445536 <br/>
+  e-mail : havvaaskari0702@gmail.com <br/>
+  emergency : 09392051403 <br/>
+  adress : parand city <br/>
+  B.date : 1994 <br/>
+  marital status : married <br/>
+   <br/>
+  
+#### Educational Background
+  
   <br/>
   
-#### سوابق تحصیلی
-  
-  <br/>
-  
-|           1391 - 1394          |           کارشناسی مهندسی فناوری اطلاعات – دانشگاه پیام نور گنبد کاووس          |
+|           2012-2015          |          IT Bachelor degree - Gonbad-e-kavoos Payam-e-nour University         |
 |--------------------------------|---------------------------------------------------------------------------------|
-| 1400 تا کنون                   | کارشناسی ارشد هوش مصنوعی و رباتیکز- دانشگاه سمنان                               |
+| 2021 till now                | َArtificial Inteligance master degree - Semnan University                              |
   
   <br/>
   
-#### سوابق حرفه ای
+#### Work Experience
   
   <br/>
   
-| بهمن 93 الی آذر 94  | انجام کلیه امور کامپیوتری : نصب و راه اندازی ویندوز و نرم افزار ها                     | کار آموز-دانشگاه پیام نور گنبد کاووس                   |
+| Jan 2015-Nov 2015  | Doing all computer work: installing Windows and software                     |Apprentice - Gonbad-e-kavoos Payam-e-nour University                   |
 |---------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------|
-| مرداد 94 الی آذر 95 | انجام کلیه امور کامپیوتری ، اتوماسیون اداری ، نامه نگاری و بایگانی در قسمت امور بانوان | کار آموز –آموزش و پرورش – استان گلستان - شهرستان آزادشهر |
-| شهریور 99 تا کنون   | اپراتور خط تولید                                                                       | اپراتور خط تولید- شرکت ماتریس – تهران –شهرک صنعتی پرند |
+| Jul 2015- Nov 2016 | Doing all computer affairs, office automation, correspondence and archiving in the women's affairs section | Apprevtice - golestan - azadshahr city - Amozesh va parvaresh Department |
+| Aug 2020  | Production line operator                                                                      | Matrix Company - Tehran - Parand Industrial City|
   
   <br/>
   
-#### مهارتها
+#### Skills
   
   <br/>
   
-| مهارتهای نرم افزاری   |
+| Software Skills   |
 |-----------------------|
 | Word-Excel-PowerPoint |
 | Windows               |
 | Internet              |
 | Html/Css              |
 | WordPress             |
-| شبکه کردن             |
+| Network+            |
   
   <br/>
   
-#### آشنایی با زبانهای خارجی
+#### Trading foreign languages
  
   <br/>
-  انگلیسی  (گفتاری-خوانداری-شنیداری-نوشتاری) 75%
+  English (speaking-reading-listening-writing) 75%
   <br/>
   
-  #### سایر مهارتها
-
+  #### Other Skills
   <br/>
-  یادگیری سریع
+  Fast learning
   <br/>
-  سخت افزار
+  Hardware
   <br/>
   
   
