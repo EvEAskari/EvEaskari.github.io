@@ -5,9 +5,8 @@
 **Havva Askari**
   
   Contact :<br/>
-  ph.num : 09373710702 - 09197445536 <br/>
+ 
   e-mail : havvaaskari0702@gmail.com <br/>
-  emergency : 09392051403 <br/>
   adress : parand city <br/>
   B.date : 1994 <br/>
   marital status : married <br/>
